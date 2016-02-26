@@ -31,7 +31,7 @@ li {
 }
 
 .impressum {
-  margin-top: 8em;
+  margin-top: 5em;
 }
 
 .supersmall {
@@ -41,4 +41,19 @@ li {
 .caption {
   font-style: italic;
   margin-top: 0.6em;
+}
+
+.orderbox {
+  text-align: center;
+  margin: 2em auto;
+}
+
+.order {
+  display: inline-block;
+  background: rgb(145, 170, 33);
+  cursor: pointer;
+  color: white;
+  font-size: 1.2em;
+  border-radius: 5em;
+  padding: 0.5em 1em;
 }
