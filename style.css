@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  font-family: 'Dosis';
+}
+
+section {
+  width: 80%;
+  max-width: 1000px;
+  margin: 6em auto 0em;
+}
+
+img {
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+  display: block;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+ul {
+  list-style-type: lower-greek;
+}
+
+li {
+  margin-top: 2em;
+}
+
+.impressum {
+  margin-top: 8em;
+}
+
+.supersmall {
+  font-size: 0.6em;
+}
+
+.caption {
+  font-style: italic;
+  margin-top: 0.6em;
+}
